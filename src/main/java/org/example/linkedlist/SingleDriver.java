@@ -27,6 +27,9 @@ public class SingleDriver {
         linkedList.pollLast();
         linkedList.pollLast();
 
+        System.out.println(linkedList);
+
+
 
 
 
